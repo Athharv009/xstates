@@ -1,0 +1,24 @@
+.selectLocation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.select {
+    display: flex;
+    gap: 20px;
+}
+
+.country {
+    width: 550px;
+    height: 50px;
+}
+
+.state {
+    width: 150px;
+}
+
+.city {
+    width: 150px;
+}
